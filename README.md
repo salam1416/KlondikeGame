@@ -24,17 +24,25 @@ A simple python version of Klondike Game
 =================== FOUNDATIONS ===================
 
 f1        f2        f3        f4
+
 []        []        []        []
 
 ===================== TABLEAU =====================
 
 t1      t2      t3      t4      t5      t6      t7
+
 5♠      XX      XX      XX      XX      XX      XX
+
         6♠      XX      XX      XX      XX      XX
+        
                 9♣      XX      XX      XX      XX
+                
                         10♦     XX      XX      XX
+                        
                                 2♣      XX      XX
+                                
                                         5♣      XX
+                                        
                                                 8♥
                                                 
 =================== STOCK/WASTE ===================
